@@ -1,0 +1,15 @@
+com\library\AdminLoginForm.class
+com\library\UserAuth.class
+com\library\DBConnection.class
+com\library\UserDashboard.class
+com\library\BookDAO.class
+com\library\SignupForm.class
+com\library\AdminPanel.class
+com\library\User.class
+com\library\LibrarySystem.class
+com\library\UserDAO.class
+com\library\Main.class
+com\library\LoginForm.class
+com\library\Book.class
+com\library\BookManager.class
+com\library\AdminDashboard.class
